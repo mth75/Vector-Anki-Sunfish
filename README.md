@@ -32,8 +32,6 @@ Sunfish is self contained in the `sunfish.py` file from the repository. I recomm
 
 It is also possible to run Sunfish with a graphical interface, such as [PyChess](http://pychess.org), [Arena](http://www.playwitharena.com) or your chess interface of choice. Sunfish' can communicate through the [XBoard](http://www.gnu.org/software/xboard/)/CECP protocol by the command `pypy -u xboard.py`. Ruxy Sylwyka has [a note on making it all work on Windows](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=560462).
 
-![Arena Screenshot](http://s29.postimg.org/89gnk99d3/Clipboard01.png)
-
 Features
 ===========
 1. Built around the simple, but deadly efficient MTD-bi search algorithm.
