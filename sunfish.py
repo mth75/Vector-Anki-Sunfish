@@ -27,7 +27,7 @@ def main():
         robot.behavior.set_lift_height(0.0)
         # clears Vector's eyes from screen
         current_directory = os.path.dirname(os.path.realpath(__file__))
-        image_path = os.path.join(current_directory,"logo", "sunfish.jpg")
+        image_path = os.path.join(current_directory,"sunfish.jpg")
         # Load an image
         image_file = Image.open(image_path)
         # Convert the image to the format used by the Screen
