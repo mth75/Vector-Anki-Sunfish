@@ -55,4 +55,4 @@ The name Sunfish actually refers to the [Pygmy Sunfish](http://en.wikipedia.org/
 
 In terms of Heritage, Sunfish borrows much more from [Micro-Max by Geert Muller](http://home.hccnet.nl/h.g.muller/max-src2.html) and [PyChess](http://pychess.org).
 
-![Sunfish logo](https://raw.github.com/thomasahle/sunfish/master/logo/sunfish_large.png)
+![Sunfish logo](https://raw.githubusercontent.com/mth75/Vector-Anki-Sunfish/master/sunfish.jpg)
